@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TriangleUtilitiesTest
+comment1.params=
+comment1.target=void\ testGetRow_ForSmallWidth()
+comment2.params=
+comment2.target=void\ testGetRow_ForBigWidth()
+comment3.params=
+comment3.target=void\ testGetTriangle_ForOneRow()
+comment4.params=
+comment4.target=void\ testGetTriangle_ForSmallTriangle()
+comment5.params=
+comment5.target=void\ testGetTriangle_ForBigTriangle()
+comment6.params=
+comment6.target=void\ testGetLargeTriangle()
+comment7.params=
+comment7.target=void\ testGetSmallTriangle()
+numComments=8

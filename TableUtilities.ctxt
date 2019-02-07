@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TableUtilities
+comment1.params=
+comment1.target=java.lang.String\ getSmallMultiplicationTable()
+comment2.params=
+comment2.target=java.lang.String\ getLargeMultiplicationTable()
+comment3.params=tableSize
+comment3.target=java.lang.String\ getMultiplicationTable(int)
+numComments=4
